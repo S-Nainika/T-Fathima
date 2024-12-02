@@ -1,6 +1,3 @@
-Here's a cleaner and visually more appealing version of your GitHub README:
-
----
 
 <h1 align="center"> Hello! I'm <a href="https://www.linkedin.com/in/tatheer-fathima-5ba16b275/" target="_blank">Tatheer Fathima</a> 👋</h1>  
 <h3 align="center">🌟 A Pre-Final Year Undergrad Exploring the Tech Universe! 🌟</h3>  
